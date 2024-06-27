@@ -5,7 +5,7 @@
     font-style: normal;
 }
 .bg-body-tertiary {
-    background-color: white !important; /* !important를 사용하여 다른 스타일을 덮어씁니다 */
+    background-color: white !important; /* !important를 사용하여 다른 style을 덮어씁니다 */
 }
 .navbar-custom {
     display: flex;
