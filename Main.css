@@ -1,0 +1,61 @@
+.navbar-brand {
+    margin: auto; /* 글씨를 가운데로 배치 */
+    font-family: "Song Myung", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.bg-body-tertiary {
+    background-color: white !important; /* !important를 사용하여 다른 스타일을 덮어씁니다 */
+}
+.navbar-custom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-custom img {
+    margin-left: 10px;
+}
+
+.card {
+    border: none;
+}
+.card-img-top {
+    margin-left: 50px;
+    width: 310px; /* 전체 너비에 맞게 조정 */
+    height: 310px; /* 원하는 높이로 설정 */
+    object-fit: cover; /* 이미지가 잘리지 않고 꽉 차도록 조정 */
+}
+.HomeMain{
+    margin-left: 100px;
+}
+.card-title{
+    margin-left: 110px;
+}
+.card-text{
+    margin-left: 110px;
+}
+
+footer{
+    border-top: 1px solid black;
+    background-color:black;
+    padding:1rem 0;
+    margin:1rem 0;
+}
+
+.footer-message{
+    font-weight: bold;
+    font-size:0.9rem;
+    color:white;
+    margin-bottom:0.3rem;
+    margin:0 0 0 0.6rem;
+}
+.footer-contact{
+    font-size:0.9rem;
+    color:#ffffff;
+    margin:0.6rem;
+}
+.footer-copyright{
+    font-size:0.9rem;
+    color:#ffffff;
+    margin:0.6rem;
+}
