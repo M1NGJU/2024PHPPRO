@@ -18,14 +18,24 @@
 .HomeMain{
     margin-left: 100px;
 }
+.Mainfont{
+    margin-left: 80px;
+}
+.MainBodyVar{
+    margin-left: 100px;
+    word-spacing:100px
+}
+.MainRushVar{
+    margin-left: 150px;
+}
 .card-title{
-    margin-left: 110px;
+    margin-left: 100px;
 }
 .card-text{
-    margin-left: 110px;
+    margin-left: 100px;
 }
 .card-img-top {
-    margin-left: 50px;
+    margin-left: 40px;
     width: 310px; /* 전체 너비에 맞게 조정 */
     height: 310px; /* 원하는 높이로 설정 */
     object-fit: cover; /* 이미지가 잘리지 않고 꽉 차도록 조정 */
@@ -33,12 +43,7 @@
 .navbar-custom img {
     margin-left: 10px;
 }
-.Mainfont{
-    margin-left: 80px;
-}
-.MainBodyVar{
-    margin-left: 100px;
-}
+
 .MainBodyVarIMG{
     margin-left: 100px;
 }
